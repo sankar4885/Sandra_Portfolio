@@ -120,7 +120,7 @@ function App() {
         <section className="hero" id="home">
           <div className="hero-grid">
             <div className="hero-copy">
-              <div className="availability reveal"><span className="pulse-dot" /> Open to internship opportunities</div>
+              <div className="availability reveal"><span className="pulse-dot" /> Open to exciting career opportunities</div>
               <p className="hero-kicker reveal">Computer Science undergraduate / AI & technical leadership</p>
               <h1 className="reveal">Building useful<br /><em>intelligence.</em></h1>
               <p className="hero-intro reveal">I am Sandra R. S., a Computer Science undergraduate creating AI-powered computer vision applications and leading communities that make technology more accessible.</p>
@@ -211,7 +211,7 @@ function App() {
         </section>
       </main>
 
-      <footer className="footer"><span>© 2025 Sandra R. S.</span><span>English / Malayalam</span><a href="#home">Back to top <ArrowUpRight size={15} /></a></footer>
+      <footer className="footer"><span>© 2026 Sandra R. S.</span><span>English / Malayalam</span><a href="#home">Back to top <ArrowUpRight size={15} /></a></footer>
     </div>
   )
 }
